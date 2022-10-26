@@ -28,3 +28,4 @@ view site](https://giftedvision.netlify.app/)
 
 ## License
 
+Project https://giftedvision.netlify.app/ is distributed under the MIT License.
