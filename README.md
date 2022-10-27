@@ -18,13 +18,13 @@ Documentation Here
 
 ## Distribute
 
-- [
+- 👀 [
 view site](https://giftedvision.netlify.app/)
 
 
-## Developers
+## Developer
 
-- [Svirko Alexander](https://github.com/SvirkoAlexander)
+- 💻 [Svirko Alexander](https://github.com/SvirkoAlexander)
 
 ## License
 
