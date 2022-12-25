@@ -1,12 +1,38 @@
 ## Main Theme
 <p align="center">
-      <img src="bra1.png" width="726">
+      <img src="fon1.png" width="726">
 </p>
 
 
 <p align="center">
       <img src="fon2.png" width="726">
 </p>
+
+<p align="center">
+      <img src="fon3.png" width="726">
+</p>
+
+<p align="center">
+      <img src="fon4.png" width="726">
+</p>
+
+<p align="center">
+      <img src="fon5.png" width="726">
+</p>
+
+<p align="center">
+      <img src="fon6.png" width="726">
+</p>
+
+<p align="center">
+      <img src="fon7.png" width="726">
+</p>
+
+<p align="center">
+      <img src="fon8.png" width="726">
+</p>
+
+
 
 <p align="center">
    <img src="https://img.shields.io/badge/version-chrome-green" alt="chrome">
