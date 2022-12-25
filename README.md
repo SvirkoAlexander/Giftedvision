@@ -40,18 +40,21 @@
    <img src="https://img.shields.io/badge/-JS%20%2F%20Swiper%20%2F%20Scroll%20js-yellow" alt="License">
 </p>
 
-## About
+## Описание
 
-Web site from personal trainer from Minsk Svirko Alexander
+Создание и разработка полноценного сайта для Фитнес тренера. Использование современных технологий веб-разработки. Смотрите другие мои работы!
 
-## Documentation
 
-Documentation Here
+## Description
 
-## Distribute
+Creation and development of a full-fledged site for an fitness trainer. Using modern web development technologies. See my other works!
+
+
+
+## Просмотр проекта 👇🏻
 
 - 👀 [
-view site](https://giftedvision.netlify.app/)
+Посмотреть Сайт](https://giftedvision.netlify.app/)
 
 
 ## Developer
