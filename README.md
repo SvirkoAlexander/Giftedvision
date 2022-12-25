@@ -1,3 +1,9 @@
+## Main Theme
+<p align="center">
+      <img src="bra1.png" width="726">
+</p>
+
+
 <p align="center">
       <img src="fon2.png" width="726">
 </p>
