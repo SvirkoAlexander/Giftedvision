@@ -32,6 +32,12 @@
       <img src="fon8.png" width="726">
 </p>
 
+## Other Devices 📱
+<p align="center">
+      <img src="gifted iphone.png" width="250">
+      <img src="gifted ipad.png" width="500">
+</p>
+
 
 
 <p align="center">
